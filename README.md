@@ -1,5 +1,5 @@
 ## Projeto Landing Page 🚀
-Meu primeiro projeto foi esta Landing page da Agência XPTO feita na semana de imersão  MapaDev Week de Desenvolvimento Web Front-end. 
+Meu primeiro projeto foi esta Landing page da Agência XPTO feita na semana de imersão  MapaDev Week de Desenvolvimento Web Front-end em janeiro de 2022. 
 
 ## Tecnologias utilizadas 💻
   - HTML
