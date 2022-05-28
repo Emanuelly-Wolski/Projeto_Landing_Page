@@ -7,4 +7,8 @@ Meu primeiro projeto foi esta Landing page da Agência XPTO feita na semana de i
   - JavaScript
   
 ## Visualização 🌟
-A página está responsiva, caso queira vizualizá-la basta acessar o seguinte link: https://emanuelly-wolski.github.io/Projeto_Landing_Page/
+A página está responsiva, caso queira navegar nela basta acessar o seguinte link: https://emanuelly-wolski.github.io/Projeto_Landing_Page/
+
+[<img src="./agencia-xpto.gif" alt="gif do site">]
+
+
