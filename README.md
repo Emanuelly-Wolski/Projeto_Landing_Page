@@ -6,6 +6,8 @@ Meu primeiro projeto foi esta Landing page da Agência XPTO feita na semana de i
     <img align="center" alt="Js" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img align="center" alt="HTML" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
     <img align="center" alt="CSS" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="CSS" height="45" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 </div>
   
 ## Visualização 
