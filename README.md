@@ -10,6 +10,11 @@
     <img align="center" alt="Git" height="65" width="70"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 </div>
+
+
+## Curiosidade
+
+#### Foi através deste projeto que conheci o mundo do Front-End e me encantei, após passar por todo o processo de desenvolvimento e ver de perto tudo o que é possível fazer com a programação na web, decidi que iria trilhar este caminho e buscaria aprender e fazer cada vez mais!
   
 ## Visualização 
 A página está responsiva, caso queira navegar nela basta acessar o seguinte link: https://emanuelly-wolski.github.io/Projeto_Landing_Page/
